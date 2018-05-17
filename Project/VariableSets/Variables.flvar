@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="name and number" EvaluatedDefinition="madcap 858 123 4567">madcap [%=Variables.PhoneNumber%]</Variable>
+    <Variable Comment="" Name="PhoneNumber" EvaluatedDefinition="858 123 4567">858 123 4567</Variable>
+    <Variable Name="simple" EvaluatedDefinition="simple">simple</Variable>
+    <Variable Name="another combo" Comment="" EvaluatedDefinition="variable simple reused">variable [%=Variables.simple%] reused</Variable>
+    <Variable Name="FirstLevel" Comment="" EvaluatedDefinition="First Level Index">First Level Index</Variable>
+</CatapultVariableSet>

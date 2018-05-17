@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="461" MadCap:lastWidth="1453">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>
+        </title>
+        <link href="../Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="content">
+            <div id="contentBody">
+                <div class="row collapse">
+                    <div class="sideContent">
+                        <div class="clearfix">
+                            <MadCap:topicToolbarProxy />
+                        </div>
+                        <MadCap:searchBarProxy />
+                        <MadCap:menuProxy style="mc-context-sensitive: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
+                    </div>
+                    <MadCap:breadcrumbsProxy />
+                    <p style="font-weight: bold;">BEGIN MASTERPAGE&#160;VARIABLES</p>
+                    <p style="font-weight: bold;">&#160;</p>
+                    <p>
+                        <b>Expected:</b> madcap 858 123 4567</p>
+                    <p style="font-weight: bold;color: #228b22;">
+                        <MadCap:variable name="Variables.name and number" />
+                    </p>
+                    <p>
+                        <b>Expected:</b>  858 123 4567</p>
+                    <p style="font-weight: bold;">
+                        <MadCap:variable name="Variables.PhoneNumber" />
+                    </p>
+                    <p>
+                        <b>Expected:</b> variable simple reused</p>
+                    <p style="font-weight: bold;color: #228b22;">
+                        <MadCap:variable name="Variables.another combo" />
+                    </p>
+                    <p>
+                        <b>Expected:</b> simple</p>
+                    <p style="font-weight: bold;color: #228b22;">
+                        <MadCap:variable name="Variables.simple" />
+                    </p>
+                    <p>&#160;</p>
+                    <p>
+                        <b>Expected:</b> show "type of target used" (or "use multiple Definition" if nothing set in Target variables tab)</p>
+                    <p style="font-weight: bold;color: #228b22;">
+                        <MadCap:variable name="New Folder/Target.NewVariable" />
+                    </p>
+                    <p>
+                        <b>Expected:</b>  "type of target used" (or "use multiple Definition" if nothing set in Target variables tab)</p>
+                    <p style="font-weight: bold;color: #228b22;">
+                        <MadCap:variable name="New Folder/Target.TargetType" />
+                    </p>
+                    <p>&#160;</p>
+                    <p style="font-weight: bold;">END MASTERPAGE&#160;VARIABLES</p>
+                    <MadCap:bodyProxy />
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

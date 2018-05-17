@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultIndexLinkSet>
+    <IndexLink Term="[%=Variables.name and number%]" LinkType="see" LinkedTerm="[%=Variables.simple%]">
+    </IndexLink>
+    <IndexLink Term="Plain" LinkType="see" LinkedTerm="[%=Variables.name and number%]">
+    </IndexLink>
+</CatapultIndexLinkSet>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+    <SearchFilter Name="Glossary" Concepts="glossary" Order="1">
+    </SearchFilter>
+    <SearchFilter Name="links" Comment="" Order="0" Concepts="links" />
+</CatapultSearchFilterSet>

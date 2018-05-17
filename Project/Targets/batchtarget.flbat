@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget Version="1" Comment="New Batch Target" Guid="df23e9ad-3313-4eb5-b676-685745b0a13d">
+    <Targets>
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Chm" Type="HTML Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Dita" Type="DITA" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Dotnet" Type="DotNet Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Eclipse" Type="Eclipse Help" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5EpubDynamic" Type="EPUB" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5EpubStatic" Type="EPUB" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5HTML5_skinless" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5HTML5_static" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Mobile" Type="WebHelp Mobile" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5PDFFile" Type="PDF" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5TopNav" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Tripane" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5WebHelp" Type="WebHelp" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Word" Type="Word" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5XHTMLBook" Type="XHTML Book" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/8.5Xps" Type="XPS" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/HTML5" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/server-based/8.5H5Plus_none" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/server-based/8.5H5Plus_responsive" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/server-based/8.5H5Plus_static" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/server-based/8.5H5Plus_top" Type="HTML5" />
+        <Target Icon="System.Drawing.Bitmap" Name="Advanced/server-based/8.5whPlus" Type="WebHelp Plus" />
+        <Target Icon="System.Drawing.Bitmap" Name="CHM" Type="HTML Help" Build="true" LastBuilt="2015-11-11T10:15:36.0104788-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="dotnet" Type="DotNet Help" Build="true" LastBuilt="2015-11-11T10:15:34.4076925-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="eclipse" Type="Eclipse Help" Build="true" LastBuilt="2015-11-11T10:15:37.6355161-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="epub dynamic" Type="EPUB" Build="true" LastBuilt="2015-11-11T10:15:40.5864237-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="epub static" Type="EPUB" Build="true" LastBuilt="2015-11-11T10:15:42.1177092-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="mobile" Type="WebHelp Mobile" Build="true" LastBuilt="2015-11-11T10:15:45.3591307-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="no skin" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="pdf target" Type="PDF" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="topnav" Type="HTML5" Build="true" LastBuilt="2015-11-11T10:15:50.0305340-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="Tripane Responsive" Type="HTML5" Build="true" LastBuilt="2015-11-11T10:15:54.8587714-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="Tripane Static" Type="HTML5" Build="true" LastBuilt="2015-11-11T10:15:53.5306150-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="webhelp" Type="WebHelp" Build="true" LastBuilt="2015-11-11T10:15:57.1244491-08:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="word" Type="Word" Build="true" LastBuilt="2015-11-11T10:15:58.6088585-08:00" />
+    </Targets>
+</CatapultBatchTarget>

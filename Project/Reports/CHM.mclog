@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild V12 Generated CHM.fltar" Date="2015-11-11T23:23:00.5829134-08:00">
+    <Messages>Compiling target CHM...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Collecting linked (merged) help system info...
+Generating Glossary...
+Applying glossary master page HtmlHelpGlossary.flmsp...
+Processing CSS: Resources\Stylesheets\Styles.css...
+Collecting source files...
+Processing source files...
+Processing CSS: Resources\Stylesheets\Modern.css...
+Generating output files...
+Processing topic: Topic.htm...
+Generated Topic.htm
+Processing topic: New Folder\subindexVariable.htm...
+Generated New Folder\subindexVariable.htm
+Processing topic: New Folder\anothersubindex.htm...
+Generated New Folder\anothersubindex.htm
+Processing topic: links.htm...
+Generated links.htm
+Processing topic: New Folder\another mixed up.htm...
+Generated New Folder\another mixed up.htm
+Processing topic: Resources\test.htm...
+Generated Resources\test.htm
+Processing topic: snippetandmasterpage.htm...
+Applying master page OtherTopics.flmsp...
+The search bar proxy is not supported and will be removed from the output.
+The menu proxy is not supported and will be removed from the output.
+Generated snippetandmasterpage.htm
+Processing topic: glossary.htm...
+Generated glossary.htm
+Generating output skins...
+No language skin file available for language 'en-us'
+Generating alias file...
+Processing audio links...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Index link "Plain" of type "see",  entry is already in index, skipping it...
+Generating Concepts...
+Resolving links in output files...
+Generating Search Database...
+Generating final output...
+Running CHM compiler...
+Microsoft HTML Help Compiler 4.74.8702
+Compiling c:\Users\lokamoto\Desktop\Variables - plenty\Output\lokamoto\Temporary\CHM\Content\HTML Help.chm
+Glossary1.htm
+Topic.htm
+New Folder\subindexVariable.htm
+New Folder\anothersubindex.htm
+links.htm
+New Folder\another mixed up.htm
+Resources\test.htm
+Skin\Toolbar.htm
+snippetandmasterpage.htm
+glossary.htm
+Resources\Stylesheets\Styles.css
+Resources\OtherTopics.flmsp
+SkinSupport\MadCapBodyEnd.js
+SkinSupport\MadCap.css
+SkinSupport\Slideshow.css
+SkinSupport\Images\MCSlider_loader.gif
+SkinSupport\Images\MCSlider_controls.png
+SkinSupport\jquery.js
+SkinSupport\MadCapGlobal.js
+SkinSupport\MadCapSlideshow.js
+SkinSupport\MadCapMerging.js
+SkinSupport\MadCapAliasFile.js
+SkinSupport\MadCapUtilities.js
+SkinSupport\MadCapEffects.js
+SkinSupport\MadCapEffectsMenu.js
+SkinSupport\MadCapGlossary.js
+Resources\Stylesheets\Modern.css
+SkinSupport\MadCapBody.js
+SkinSupport\MadCapHighlighter.js
+SkinSupport\MadCapToolbar.js
+Data\SkinDefault\AccordionIconsBackground.jpg
+Data\SkinDefault\AddComment.gif
+Data\SkinDefault\AddComment_over.gif
+Data\SkinDefault\AddComment_selected.gif
+Data\SkinDefault\AddSearchToFavorites.gif
+Data\SkinDefault\AddSearchToFavorites_over.gif
+Data\SkinDefault\AddSearchToFavorites_selected.gif
+Data\SkinDefault\Book.gif
+Data\SkinDefault\BookOpen.gif
+Data\SkinDefault\BrowsesequencesAccordionBackground.jpg
+Data\SkinDefault\BrowsesequencesAccordionBackground_over.jpg
+Data\SkinDefault\BrowsesequencesIcon.gif
+Data\SkinDefault\Comment.gif
+Data\SkinDefault\CommentReply.gif
+Data\SkinDefault\CommunityAccordionBackground.jpg
+Data\SkinDefault\CommunityAccordionBackground_over.jpg
+Data\SkinDefault\CommunityIcon.gif
+Data\SkinDefault\Delete.gif
+Data\SkinDefault\Delete_over.gif
+Data\SkinDefault\Delete_selected.gif
+Data\SkinDefault\FavoritesAccordionBackground.jpg
+Data\SkinDefault\FavoritesAccordionBackground_over.jpg
+Data\SkinDefault\FavoritesIcon.gif
+Data\SkinDefault\GlossaryAccordionBackground.jpg
+Data\SkinDefault\GlossaryAccordionBackground_over.jpg
+Data\SkinDefault\GlossaryIcon.gif
+Data\SkinDefault\header.png
+Data\SkinDefault\IndexAccordionBackground.jpg
+Data\SkinDefault\IndexAccordionBackground_over.jpg
+Data\SkinDefault\IndexHeadingBG.png
+Data\SkinDefault\IndexIcon.gif
+Data\SkinDefault\NavigationBottomGradient.jpg
+Data\SkinDefault\NavigationBottomGradient_selected.jpg
+Data\SkinDefault\NavigationTopGradient.jpg
+Data\SkinDefault\NextTopic.gif
+Data\SkinDefault\NextTopic_over.gif
+Data\SkinDefault\NextTopic_selected.gif
+Data\SkinDefault\PreviousTopic.gif
+Data\SkinDefault\PreviousTopic_over.gif
+Data\SkinDefault\PreviousTopic_selected.gif
+Data\SkinDefault\RefreshTopicComments.gif
+Data\SkinDefault\RefreshTopicComments_over.gif
+Data\SkinDefault\RefreshTopicComments_selected.gif
+Data\SkinDefault\ReplyComment.gif
+Data\SkinDefault\ReplyComment_over.gif
+Data\SkinDefault\ReplyComment_selected.gif
+Data\SkinDefault\SearchAccordionBackground.jpg
+Data\SkinDefault\SearchAccordionBackground_over.jpg
+Data\SkinDefault\SearchBG.png
+Data\SkinDefault\SearchIcon.gif
+Data\SkinDefault\Skin.xml
+Data\SkinDefault\Stylesheet.xml
+Data\SkinDefault\TocAccordionBackground.jpg
+Data\SkinDefault\TocAccordionBackground_over.jpg
+Data\SkinDefault\TocIcon.gif
+Data\SkinDefault\ToolbarBackground.jpg
+Data\SkinDefault\Topic.gif
+Skin\Images\Separator.gif
+Skin\Images\Logo.png
+Skin\Images\LogoHtmlHelp.png
+Skin\Images\LogoPlus.png
+Skin\Images\Loading.gif
+Skin\Images\LoadingAnimated.gif
+Skin\Images\NewItemIndicator.bmp
+Skin\Images\FavoritesBlank.gif
+Skin\Images\FavoritesSearch.gif
+Skin\Images\FavoritesTopic.gif
+Skin\Images\CloseButton.gif
+Skin\Images\ArrowDown.gif
+Skin\Images\ArrowUp.gif
+Skin\Images\SearchGradient.jpg
+Skin\Images\SearchGradient_over.jpg
+Skin\Images\SearchGradient_selected.jpg
+Skin\Images\NavigationBottomGradient.jpg
+Skin\Images\NavigationBottomGradient_selected.jpg
+Skin\Images\CloseDialog.png
+Data\Alias.xml
+Data\Toc.xml
+HTML Help.xml
+Data\HelpSystem.xml
+_Temp.hhc
+_Temp.hhk
+Compile time: 0 minutes, 0 seconds
+14	Topics
+70	Local links
+4	Internet links
+0	Graphics
+Created c:\Users\lokamoto\Desktop\Variables - plenty\Output\lokamoto\Temporary\CHM\Content\HTML Help.chm, 251,197 bytes
+Compression decreased file by 611,820 bytes.
+Generated ../../CHM/HTML Help.chm
+Saving result set...
+Output generated in 5 second(s).
+
+Done
+Saving log to "C:\Users\lokamoto\Desktop\Variables - plenty\Project\Reports\CHM.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Resources/OtherTopics.flmsp" Message="The search bar proxy is not supported and will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="CHM" ErrorID="20059" />
+        <LogEntry File="../../../Content/Resources/OtherTopics.flmsp" Message="The menu proxy is not supported and will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="CHM" ErrorID="20059" />
+        <LogEntry Message="No language skin file available for language 'en-us'" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="CHM" ErrorID="20009" />
+        <LogEntry Message="Index link &quot;Plain&quot; of type &quot;see&quot;,  entry is already in index, skipping it..." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="CHM" ErrorID="10070" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

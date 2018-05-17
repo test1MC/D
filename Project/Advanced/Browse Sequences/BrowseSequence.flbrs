@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Links Topic" Link="/Content/links.htm" />
+    <TocEntry Title="Snippets" Link="/Content/snippetandmasterpage.htm" />
+    <TocEntry Title="[%=New Folder/Target.TargetType%]" Link="/Content/Topic.htm" />
+</CatapultToc>

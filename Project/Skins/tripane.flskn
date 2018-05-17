@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="WebHelp2" Comment="HTML5 Default Tripane skin" Anchors="Width,Height" Width="800" Height="600" Top="0" Left="0" Bottom="0" Right="0" Tabs="TOC,Index,Glossary,Community" DefaultTab="TOC" UseBrowserDefaultSize="True" UseDefaultBrowserSetup="True" EnableResponsiveOutput="True" CommentsInTopic="true" Title="[%=New Folder/Target.TargetType%] [%=Variables.another combo%]">
+    <Stylesheet>
+        <Styles>
+            <Medium Name="Tablet">
+                <Style Name="Search Bar">
+                    <Properties>
+                    </Properties>
+                </Style>
+            </Medium>
+            <Style Name="Navigation Tab">
+                <Properties>
+                    <Property Name="Width">300px</Property>
+                </Properties>
+            </Style>
+        </Styles>
+        <Stylesheet>
+        </Stylesheet>
+    </Stylesheet>
+    <Strings>
+        <Stylesheet lang="en-us">
+            <Stylesheet>
+                <Styles>
+                    <Style Name="ToolbarItem">
+                        <Classes>
+                            <StyleClass Name="NextTopic">
+                                <Properties>
+                                    <Property Name="Tooltip">Next [%=New Folder/skin variables.Nested SkinUI%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="ExpandAll">
+                                <Properties>
+                                    <Property Name="Tooltip">[%=New Folder/skin variables.expand%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="CollapseAll">
+                                <Properties>
+                                    <Property Name="Tooltip">[%=New Folder/skin variables.collapse%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="CurrentTopicIndex">
+                                <Properties>
+                                    <Property Name="Format">{n} of {total} [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="PreviousTopic">
+                                <Properties>
+                                    <Property Name="Tooltip">Previous [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="Print">
+                                <Properties>
+                                    <Property Name="Tooltip">[%=New Folder/skin variables.Print Stuff%]</Property>
+                                </Properties>
+                            </StyleClass>
+                        </Classes>
+                    </Style>
+                    <Style Name="Search Submit Button">
+                        <Properties>
+                            <Property Name="Tooltip">Search [%=New Folder/company.CompanyName%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Input">
+                        <Properties>
+                            <Property Name="Placeholder">Search [%=New Folder/company.CompanyName%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Heading">
+                        <Properties>
+                            <Property Name="Format">Your [%=New Folder/skin variables.Child Skin UI%] and  [%=New Folder/skin variables.Nested SkinUI%] search for {query} returned {total_results} result(s).</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Filter">
+                        <Properties>
+                            <Property Name="Label">[%=Variables.simple%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Pagination Item">
+                        <Classes>
+                            <StyleClass Name="Previous">
+                                <Properties>
+                                    <Property Name="Label">Previous [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="Next">
+                                <Properties>
+                                    <Property Name="Label">Next  [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                        </Classes>
+                    </Style>
+                    <Style Name="Navigation Tab">
+                        <Classes>
+                            <StyleClass Name="Search Filters">
+                                <Properties>
+                                    <Property Name="Label">[%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="TOC">
+                                <Properties>
+                                    <Property Name="Label">[%=New Folder/skin variables.Content%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="Index">
+                                <Properties>
+                                    <Property Name="Label">[%=New Folder/skin variables.Index%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="Glossary">
+                                <Properties>
+                                    <Property Name="Label">[%=New Folder/skin variables.Glossary%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="Browse Sequences">
+                                <Properties>
+                                    <Property Name="Label">[%=New Folder/skin variables.BrowseSeq%]</Property>
+                                </Properties>
+                            </StyleClass>
+                        </Classes>
+                    </Style>
+                    <Style Name="Home Button">
+                        <Properties>
+                            <Property Name="Label">[%=New Folder/skin variables.OtherTesting%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Index Entry See Also Reference">
+                        <Properties>
+                            <Property Name="Label">See Also [%=New Folder/skin variables.Index%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Index Entry See Reference">
+                        <Properties>
+                            <Property Name="Label">See  [%=New Folder/skin variables.Index%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Index Search Input">
+                        <Properties>
+                            <Property Name="Placeholder">Search  [%=New Folder/skin variables.Index%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Navigation Link">
+                        <Classes>
+                            <StyleClass Name="Bottom">
+                                <Properties>
+                                    <Property Name="Label">Open topic with navigation [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="Top">
+                                <Properties>
+                                    <Property Name="Label">Open topic with navigation [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                        </Classes>
+                    </Style>
+                    <Style Name="Glossary Search Input">
+                        <Properties>
+                            <Property Name="Placeholder">Search Glossary [%=New Folder/skin variables.Glossary%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Logo">
+                        <Properties>
+                            <Property Name="AltText">[%=New Folder/company.website%]</Property>
+                        </Properties>
+                    </Style>
+                </Styles>
+            </Stylesheet>
+        </Stylesheet>
+    </Strings>
+</CatapultSkin>

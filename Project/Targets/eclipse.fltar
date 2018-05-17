@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="EclipseHelp" Destinations="" GlossaryTermConversion="marked" MasterBookType="topic">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Variables>
+        <Variable Name="New Folder/Target/TargetType">eclipse Help</Variable>
+    </Variables>
+    <MetaTags>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="keywords" content="[%=Variables.simple%], [%=New Folder/Target.NewVariable%]" />
+    </MetaTags>
+</CatapultTarget>

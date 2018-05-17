@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="PDF" Destinations="" GlossaryTermConversion="marked" OutputFile="[%=New Folder/Target.TargetType%]">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Variables>
+        <Variable Name="New Folder/Target/TargetType">PDF</Variable>
+    </Variables>
+    <DocumentProperties Title="L Title [%=New Folder/Target.TargetType%]" Author="lokamoto [%=New Folder/Target.TargetType%]" Subject="L Subject  [%=New Folder/Target.TargetType%]" Keywords="L Keywords  [%=New Folder/Target.TargetType%]" />
+</CatapultTarget>

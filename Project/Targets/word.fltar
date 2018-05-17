@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="MsWord" Destinations="" GlossaryTermConversion="marked" OutputFile="[%=New Folder/Target.TargetType%]">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Variables>
+        <Variable Name="New Folder/Target/TargetType">Microsoft Word</Variable>
+    </Variables>
+</CatapultTarget>

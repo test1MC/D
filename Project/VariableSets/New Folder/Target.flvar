@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="TargetType" EvaluatedDefinition="use multiple Definition">use multiple Definition</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="HTML Help">HTML Help</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="WebHelp">WebHelp</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="Tripane Responsive">Tripane Responsive</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="Tripane Static">Tripane Static</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="WebHelp Mobile">WebHelp Mobile</Variable>
+    <Variable Name="NewVariable" Comment="" EvaluatedDefinition="show use multiple Definition">show [%=New Folder/Target.TargetType%]</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="Top Navigation">Top Navigation</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="Skinless">Skinless</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="ePub Static">ePub Static</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="ePub Dynamic">ePub Dynamic</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="PDF">PDF</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="Microsoft Word">Microsoft Word</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="Eclipse">Eclipse</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="eclipse Help">eclipse Help</Variable>
+    <Variable Name="TargetType" Comment="" EvaluatedDefinition="DotNet Help">DotNet Help</Variable>
+    <Variable Name="Built" Comment="" Type="DateTime" LastUpdated="2015-11-11T23:20:54.0456940-08:00" EvaluatedDefinition="MMMM dd, yyyy hh:mm:ss tt">MMMM dd, yyyy hh:mm:ss tt</Variable>
+    <Variable Name="nestedBuildTime" Comment="" EvaluatedDefinition="Build Time November 11, 2015 11:20:54 PM">Build Time [%=New Folder/Target.Built%]</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="733" MadCap:lastWidth="624">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="links" />Links Topic</h1>
+        <p>Variable used for index term - "Simple"<MadCap:keyword term="[%=Variables.simple%]" /></p>
+        <h2>Hyperlinks</h2>
+        <p>
+            <b>Expected:</b> Links to http://wwww.madcapsoftware.com</p>
+        <p>Using a variable as part of a url http://www.&lt;variable&gt;.com</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <a href="http://www.[%=New Folder/company.CompanyName%].com" target="_blank">Click to go to [%=New Folder/company.CompanyName%]'s website</a>
+        </p>
+        <p>using a variable as the whole url &lt;variable&gt;</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <a href="[%=New Folder/company.website%]" target="_blank">Click to go to link!</a>
+        </p>
+        <p>&#160;</p>
+        <p>
+            <b>Expected:</b> links to test.htm using variable for link text - variable used should display "variable simple reused"</p>
+        <p>
+            <a href="Resources/test.htm">[%=Variables.another combo%]</a>
+        </p>
+        <p>Link should go to Cats topic</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <h2>Cross-reference</h2>
+        <p>Both links below should go to Dogs Topic</p>
+        <p>&#160;</p>
+        <p>
+            <b>expected:</b> cross-reference to topic with name "variable simple reused nested variable"</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <MadCap:xref href="New Folder/another mixed up.htm">[%=Variables.another combo%] nested variable</MadCap:xref>
+        </p>
+        <p>
+            <b>expected:</b> madcap 858 123 4567 combo variable in xref format variable simple reused nested variable" </p>
+        <p style="font-style: italic;">cross-reference to topic with name "variable simple reused nested variable" with addition cross-reference format added</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <MadCap:xref href="New Folder/another mixed up.htm" class="test">[%=Variables.name and number%] combo variable in xref format [%=Variables.another combo%] nested variable </MadCap:xref>
+        </p>
+        <p style="font-weight: bold; color: #228b22;">&#160;</p>
+        <p style="font-weight: bold;">Cross-reference format not using variables </p>
+        <p>
+            <b>Expected:</b> simple format- variable simple reused nested variable</p>
+        <p style="font-weight: bold; color: #228b22;">
+            <MadCap:xref href="New Folder/another mixed up.htm" class="novariable">[%=Variables.another combo%] nested variable</MadCap:xref>
+        </p>
+    </body>
+</html>

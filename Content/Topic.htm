@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="471" MadCap:lastWidth="1223">
+    <head>
+        <title>[%=New Folder/Target.TargetType%]</title>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Here is a description for this topic - variable for target type is used now - [%=New Folder/Target.NewVariable%]" />
+    </head>
+    <body>
+        <h1>Initial Topic</h1>
+        <p>all variables used in project are below</p>
+        <p>&#160;</p>
+        <p>
+            <b>Expected:</b> madcap 858 123 4567</p>
+        <p style="color: #228b22;font-weight: bold;">
+            <MadCap:variable name="Variables.name and number" />
+        </p>
+        <p>
+            <b>Expected:</b>  858 123 4567</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <MadCap:variable name="Variables.PhoneNumber" />
+        </p>
+        <p>
+            <b>Expected:</b> variable simple reused</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <MadCap:variable name="Variables.another combo" />
+        </p>
+        <p>
+            <b>Expected:</b> simple<MadCap:keyword term="main" /></p>
+        <p style="font-weight: bold;color: #228b22;">
+            <MadCap:variable name="Variables.simple" />
+        </p>
+        <p>&#160;</p>
+        <p>
+            <b>Expected:</b> show "type of target used" (or "use multiple Definition" if nothing set in Target variables tab)</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <MadCap:variable name="New Folder/Target.NewVariable" />
+        </p>
+        <p>
+            <b>Expected:</b>  "type of target used" (or "use multiple Definition" if nothing set in Target variables tab)</p>
+        <p style="font-weight: bold;color: #228b22;">
+            <MadCap:variable name="New Folder/Target.TargetType" />
+        </p>
+        <p>&#160;</p>
+        <p>Last built <MadCap:variable name="New Folder/Target.nestedBuildTime" /></p>
+        <p>&#160;</p>
+        <p>
+            <MadCap:popup>
+                <MadCap:popupHead>Popup link [%=Variables.simple%] [%=New Folder/Target.NewVariable%]</MadCap:popupHead>
+                <MadCap:popupBody>here is popup text!
+Should display
+ madcap 858 123 4567 - [%=Variables.name and number%]
+simple - [%=Variables.simple%]</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <p>AutoTest</p>
+        <p>&#160;</p>
+    </body>
+</html>

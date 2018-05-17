@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="skin ui" EvaluatedDefinition="skin variable">skin variable</Variable>
+    <Variable Name="Nested SkinUI" Comment="" EvaluatedDefinition="Parent and Child">Parent and [%=New Folder/skin variables.Child Skin UI%]</Variable>
+    <Variable Name="Child Skin UI" Comment="" EvaluatedDefinition="Child">Child</Variable>
+    <Variable Name="DateVariable" Comment="" Type="DateTime" LastUpdated="2015-11-13T16:29:05.4776609-08:00" EvaluatedDefinition="ddd MM/dd/yy">ddd MM/dd/yy</Variable>
+    <Variable Name="Index" Comment="" EvaluatedDefinition="Index Stuff">Index Stuff</Variable>
+    <Variable Name="Content" Comment="" EvaluatedDefinition="Cool Stuff">Cool Stuff</Variable>
+    <Variable Name="Glossary" Comment="" EvaluatedDefinition="Glossary Stuff">Glossary Stuff</Variable>
+    <Variable Name="BrowseSeq" Comment="" EvaluatedDefinition="Browsing Stuff">Browsing Stuff</Variable>
+    <Variable Name="OtherTesting" Comment="" EvaluatedDefinition="Other Stuff skin variable">Other Stuff [%=New Folder/skin variables.skin ui%]</Variable>
+    <Variable Name="expand" Comment="" EvaluatedDefinition="expand stuff">expand stuff</Variable>
+    <Variable Name="collapse" Comment="" EvaluatedDefinition="collapse stuff">collapse stuff</Variable>
+    <Variable Name="Print Stuff" Comment="" EvaluatedDefinition="Print Stuff">Print Stuff</Variable>
+</CatapultVariableSet>

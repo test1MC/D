@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry glossTerm="Glossary.Term0">
+        <Terms>
+            <Term>My Term</Term>
+        </Terms>
+        <Definition>My definition</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term1" Stem="" IgnoreCase="false" EvaluatedTerms="simple" EvaluatedDefinition="Simple variable definition - and included again variable simple reused">
+        <Terms>
+            <Term>[%=Variables.simple%]</Term>
+        </Terms>
+        <Definition Link="">Simple variable definition - and included again [%=Variables.another combo%]</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term1" Stem="" IgnoreCase="false" EvaluatedTerms="simple topic" EvaluatedDefinition="">
+        <Terms>
+            <Term>[%=Variables.simple%] topic</Term>
+        </Terms>
+        <Definition Link="/Content/links.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term2" Stem="" IgnoreCase="false" EvaluatedTerms="variable simple reused" EvaluatedDefinition="">
+        <Terms>
+            <Term>[%=Variables.another combo%]</Term>
+        </Terms>
+        <Definition Link="/Content/New Folder/another mixed up.htm">
+        </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term2" Stem="" IgnoreCase="false" EvaluatedTerms="madcap 858 123 4567" EvaluatedDefinition="Madcap and number with build time! Build Time November 11, 2015 11:20:54 PM">
+        <Terms>
+            <Term>[%=Variables.name and number%]</Term>
+        </Terms>
+        <Definition Link="">Madcap and number with build time! [%=New Folder/Target.nestedBuildTime%]</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Glossary.Term3" Stem="" IgnoreCase="false" EvaluatedTerms="webhelp test" EvaluatedDefinition="">
+        <Terms>
+            <Term>webhelp test</Term>
+        </Terms>
+        <Definition Link="/Content/New Folder/another mixed up.htm">
+        </Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

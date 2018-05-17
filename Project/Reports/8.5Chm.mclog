@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild V12 Generated 8.5Chm.fltar" Date="2015-11-11T08:25:58.4871664-08:00">
+    <Messages>Compiling target 8.5Chm...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Collecting linked (merged) help system info...
+Generating Glossary...
+Applying glossary master page HtmlHelpGlossary.flmsp...
+Processing CSS: Resources\Stylesheets\Styles.css...
+Collecting source files...
+Processing source files...
+Processing CSS: Resources\Stylesheets\Modern.css...
+Generating output files...
+Processing topic: Topic.htm...
+Generated topic.htm
+Processing topic: links.htm...
+Generated links.htm
+Processing topic: Resources\test.htm...
+Generated resources\test.htm
+Processing topic: New Folder\another mixed up.htm...
+Generated new_folder\another_mixed_up.htm
+Generating output skins...
+No language skin file available for language 'en-us'
+Generating alias file...
+Processing audio links...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Resolving links in output files...
+Generating Search Database...
+Generating final output...
+Running CHM compiler...
+Microsoft HTML Help Compiler 4.74.8702
+Compiling c:\bugs\105155\empty4\Output\lokamoto\Temporary\8.5Chm\Content\8.chm
+Glossary.htm
+topic.htm
+links.htm
+resources\test.htm
+new_folder\another_mixed_up.htm
+resources\stylesheets\styles.css
+SkinSupport\MadCapBodyEnd.js
+SkinSupport\MadCap.css
+SkinSupport\Slideshow.css
+SkinSupport\Images\MCSlider_loader.gif
+SkinSupport\Images\MCSlider_controls.png
+SkinSupport\jquery.js
+SkinSupport\MadCapGlobal.js
+SkinSupport\MadCapSlideshow.js
+SkinSupport\MadCapMerging.js
+SkinSupport\MadCapAliasFile.js
+SkinSupport\MadCapUtilities.js
+SkinSupport\MadCapEffects.js
+SkinSupport\MadCapEffectsMenu.js
+SkinSupport\MadCapGlossary.js
+resources\stylesheets\modern.css
+SkinSupport\MadCapBody.js
+SkinSupport\MadCapHighlighter.js
+Data\Skindefault\AccordionIconsBackground.jpg
+Data\Skindefault\AddComment.gif
+Data\Skindefault\AddComment_over.gif
+Data\Skindefault\AddComment_selected.gif
+Data\Skindefault\AddSearchToFavorites.gif
+Data\Skindefault\AddSearchToFavorites_over.gif
+Data\Skindefault\AddSearchToFavorites_selected.gif
+Data\Skindefault\Book.gif
+Data\Skindefault\BookOpen.gif
+Data\Skindefault\BrowsesequencesAccordionBackground.jpg
+Data\Skindefault\BrowsesequencesAccordionBackground_over.jpg
+Data\Skindefault\BrowsesequencesIcon.gif
+Data\Skindefault\Comment.gif
+Data\Skindefault\CommentReply.gif
+Data\Skindefault\CommunityAccordionBackground.jpg
+Data\Skindefault\CommunityAccordionBackground_over.jpg
+Data\Skindefault\CommunityIcon.gif
+Data\Skindefault\Delete.gif
+Data\Skindefault\Delete_over.gif
+Data\Skindefault\Delete_selected.gif
+Data\Skindefault\FavoritesAccordionBackground.jpg
+Data\Skindefault\FavoritesAccordionBackground_over.jpg
+Data\Skindefault\FavoritesIcon.gif
+Data\Skindefault\GlossaryAccordionBackground.jpg
+Data\Skindefault\GlossaryAccordionBackground_over.jpg
+Data\Skindefault\GlossaryIcon.gif
+Data\Skindefault\header.png
+Data\Skindefault\IndexAccordionBackground.jpg
+Data\Skindefault\IndexAccordionBackground_over.jpg
+Data\Skindefault\IndexHeadingBG.png
+Data\Skindefault\IndexIcon.gif
+Data\Skindefault\NavigationBottomGradient.jpg
+Data\Skindefault\NavigationBottomGradient_selected.jpg
+Data\Skindefault\NavigationTopGradient.jpg
+Data\Skindefault\RefreshTopicComments.gif
+Data\Skindefault\RefreshTopicComments_over.gif
+Data\Skindefault\RefreshTopicComments_selected.gif
+Data\Skindefault\ReplyComment.gif
+Data\Skindefault\ReplyComment_over.gif
+Data\Skindefault\ReplyComment_selected.gif
+Data\Skindefault\SearchAccordionBackground.jpg
+Data\Skindefault\SearchAccordionBackground_over.jpg
+Data\Skindefault\SearchBG.png
+Data\Skindefault\SearchIcon.gif
+Data\Skindefault\Skin.xml
+Data\Skindefault\Stylesheet.xml
+Data\Skindefault\TocAccordionBackground.jpg
+Data\Skindefault\TocAccordionBackground_over.jpg
+Data\Skindefault\TocIcon.gif
+Data\Skindefault\ToolbarBackground.jpg
+Data\Skindefault\Topic.gif
+Data\Alias.xml
+8.xml
+Data\HelpSystem.xml
+_Temp.hhc
+_Temp.hhk
+Compile time: 0 minutes, 0 seconds
+8	Topics
+38	Local links
+1	Internet link
+0	Graphics
+Created c:\bugs\105155\empty4\Output\lokamoto\Temporary\8.5Chm\Content\8.chm, 189,622 bytes
+Compression decreased file by 514,234 bytes.
+Generated ../../8.5Chm/8.chm
+Saving result set...
+Output generated in 2 second(s).
+
+Done
+Saving log to "C:\bugs\105155\empty4\Project\Reports\8.5Chm.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry Message="No language skin file available for language 'en-us'" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="8.5Chm" ErrorID="20009" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="glossary" Link="/Content/glossary.htm" />
+    <Map Name="links" Link="/Content/links.htm" />
+    <Map Name="snippetandmasterpage" Link="/Content/snippetandmasterpage.htm" />
+    <Map Name="Topic" Link="/Content/Topic.htm" />
+    <Map Name="another_mixed_up" Link="/Content/New Folder/another mixed up.htm" />
+    <Map Name="anothersubindex" Link="/Content/New Folder/anothersubindex.htm" />
+    <Map Name="subindexVariable" Link="/Content/New Folder/subindexVariable.htm" />
+    <Map Name="test" Link="/Content/Resources/test.htm" />
+</CatapultAliasFile>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Topic" Link="/Content/Topic.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Default.flpgl">
+        <TocEntry Title="sub index Variable" Link="/Content/New Folder/subindexVariable.htm" />
+        <TocEntry Title="anothersubindex" Link="/Content/New Folder/anothersubindex.htm" />
+    </TocEntry>
+    <TocEntry Title="links" Link="/Content/links.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Default.flpgl">
+    </TocEntry>
+    <TocEntry Title="[%=Variables.another combo%] nested variable" Link="/Content/New Folder/another mixed up.htm" />
+    <TocEntry Title="target type [%=New Folder/Target.NewVariable%]" Link="http://webhelp.madcapsoftware.com" />
+    <TocEntry Title="test" Link="/Content/Resources/test.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/Default.flpgl">
+    </TocEntry>
+    <TocEntry Title="Snippets" Link="/Content/snippetandmasterpage.htm" />
+    <TocEntry Title="glossary" Link="/Content/glossary.htm" />
+</CatapultToc>

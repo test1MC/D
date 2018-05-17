@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="EPUB" Destinations="" GlossaryTermConversion="marked" OutputFile="[%=New Folder/Target.TargetType%]">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Variables>
+        <Variable Name="New Folder/Target/TargetType">ePub Dynamic</Variable>
+    </Variables>
+    <DocumentProperties Title="L Title [%=New Folder/Target.TargetType%]" Publisher="L Publisher [%=New Folder/Target.TargetType%]" Subject="L Subject [%=New Folder/Target.TargetType%]" Type="L Genre [%=New Folder/Target.TargetType%]" Description="L Description [%=New Folder/Target.TargetType%]" Rights="L Rights [%=New Folder/Target.TargetType%]" ISBN="L ISBN [%=New Folder/Target.TargetType%]" Coverage="L Coverage [%=New Folder/Target.TargetType%]" Relation="L Related To [%=New Folder/Target.TargetType%]" Source="L Based On [%=New Folder/Target.TargetType%]" Author="lokamoto [%=New Folder/Target.TargetType%]" />
+</CatapultTarget>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAutoIndexSet>
+    <AutoIndex Phrase="AutoTest" IndexTerm="AutoTest [%=Variables.another combo%]" />
+    <AutoIndex Phrase="[%=Variables.simple%]" IndexTerm="simple Auto Index phrase">
+    </AutoIndex>
+</CatapultAutoIndexSet>

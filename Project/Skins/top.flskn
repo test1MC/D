@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="WebHelp2" ComponentType="MasterPage" TemplateName="Fluid" Comment="HTML5 Top Navigation skin" EnableResponsiveOutput="True" LogoUrl="http://www.madcapsoftware.com">
+    <WebHelpOptions NavigationPanePosition="Right" />
+    <Stylesheet>
+        <Styles>
+            <Style Name="Search Bar">
+                <Properties>
+                    <Property Name="Display">block</Property>
+                </Properties>
+            </Style>
+        </Styles>
+    </Stylesheet>
+    <Strings>
+        <Stylesheet lang="en-us">
+            <Stylesheet>
+                <Styles>
+                    <Style Name="Search Heading">
+                        <Properties>
+                            <Property Name="Format">Your [%=New Folder/skin variables.Child Skin UI%] and  [%=New Folder/skin variables.Nested SkinUI%] search for {query} returned {total_results} result(s).</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Input">
+                        <Properties>
+                            <Property Name="Placeholder">Search [%=New Folder/company.CompanyName%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Pagination Item">
+                        <Classes>
+                            <StyleClass Name="Next">
+                                <Properties>
+                                    <Property Name="Label">Next  [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                            <StyleClass Name="Previous">
+                                <Properties>
+                                    <Property Name="Label">Previous [%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                        </Classes>
+                    </Style>
+                    <Style Name="Search Submit Button">
+                        <Properties>
+                            <Property Name="Tooltip">Search [%=New Folder/company.CompanyName%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Filter">
+                        <Properties>
+                            <Property Name="Label">[%=Variables.simple%]</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Navigation Panel Item">
+                        <Classes>
+                            <StyleClass Name="Back">
+                                <Properties>
+                                    <Property Name="Label">[%=New Folder/skin variables.OtherTesting%]</Property>
+                                </Properties>
+                            </StyleClass>
+                        </Classes>
+                    </Style>
+                    <Style Name="Logo">
+                        <Properties>
+                            <Property Name="AltText">[%=New Folder/company.website%]</Property>
+                        </Properties>
+                    </Style>
+                </Styles>
+            </Stylesheet>
+        </Stylesheet>
+    </Strings>
+</CatapultSkin>
